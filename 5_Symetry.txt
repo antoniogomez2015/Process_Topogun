@@ -1,0 +1,108 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______	
+
+	_Symetry: X //options/Enable Symetry
+
+		_tenemos la posibilidad de ajustar, variar ó cmabiar a partir de donde se realizará la simetría entre
+
+		ambas partes del motivo; tanto la geometría del lado izquierdo como la del lado derecho de forma 
+
+		personalizada lo cuál, es especialmente útil para carácteres complejos, otros
+
+		
+		_para lo cuál, tenemos que entrar en el modo "Simple Edit", shortcut "T", "1", y seleccionar un "point",
+
+		a partir del cuál, querramos que se genere el punto de partida para la generación de la sumetría
+
+
+		_para que así, posteriormente vayamos a las opciones de "Options/Symetry Options", para que así, se nos 
+
+		abra un panel enel cuál, debemos darle a la opción de "Duplicate", para crear un nuevo "Presset"
+
+		
+		_para luego darle ha "Rename", y renombrar éste con un nombre personalizado y posteriormente darle al 
+
+		botón "Move To", para que así, el punto a partir del cuál, se comenzará ha generar la geometría a partir de
+
+		de ahora entre el lado izquierdo y el lado derecho sea el "point", ó vertex que seleccionados previamente
+
+
+		Symetry Warps:
+		______________
+
+		_así, como también, tenemos una opción el trabajo con simetría con charácteres asimétricos en un modo 
+
+		moderado ó leve para que así, podamos personalizar la simetría para que trabajo en ámbitos asimétricos
+
+
+		_para lo cuál, perimeramente debemos de determinar el punto de simetría entre el lado derecho e izquierdo
+
+		expresado en el procedimiento de los pasos anteriores
+
+
+		_para posteriormente volver a las opciones de "Symetry Options", y en el panel que se nos abre de opciones
+
+		ir a la sección de "Symetry Warps", y allí, darle a la opción de "Create", para que así, creemos un nuevo
+
+		"Point", de coincidencias entre dos áreas asimétricas en ambos lados del character, ó motive
+
+
+		_para que así, a partir de éste punto nos aparezcan en el viewport, dos "points", de color naranja, uno al
+
+		lado derecho y otro al lado izquierlo, para  que así, hagamos "mouse left click", sobre el punto de 
+
+		coincidencia del lado izquierdo para que así, éste point, quede fijo para posteriormente fijar el punto
+
+		de coincidencia igualmente para el lado derecho, de ésta manera, el sistema podrá contemplar y guardar el
+
+		desface entre ambos puntos y desplazar e igualar la simetría entre éstos dos puntos
+
+
+		_y también, a partir de éste punto se activará en el panel de simetría un mini panel de "Falloff", a través
+		
+		del cuál, podremos ajustar el umbral ó alcance de la tolerancia entre éstos dos puntos referenciales
+
+		
+		_de ésta manera, podremos repetir éste proceso dándole ha "Create", para así, ir generando más puntos de
+
+		asimetría para que el sistema de simetría personalizada vaya ajustando los puntos sobre los cuáles deseamos
+
+		que ésta haga correcciones sostenidas ó permanentes
+
+
+		_y es así, como podremos trabajar de forma simétrica y productiva en elementos asimétrico como "bocas, ojo,
+
+		cejas, otros"
+
+		
+
+
+

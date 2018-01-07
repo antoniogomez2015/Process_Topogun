@@ -1,0 +1,100 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	Morpher:
+
+		_en muchos de los casos, tendremos ocaciones en las cuáles tendremos que hacer ó presentar variaciones del
+
+		character ó motivo, por ejemplo; en el caso en el que éste deba estár en diferentes poses para un un 
+
+		"concept art", ó para un cliente determinado
+
+
+		_y en entonces, para éste tipo de casos es que disponemos de la herramienta ó modo de "Morph", la cuál, nos
+
+		permitirá la reutilización de una topología que hayamos realizado de forma óptima, para que así, de ésta
+
+		manera, no tener que repetir el proceso de retopología para cada una las instancias con variaciones de
+
+		posición del character ó motivo
+
+
+		_de ésta manera, debemos de tener cargado ó creado sobre el mesh, de character, ó motivo de referencia una
+
+		topologia "low poly", por lo general para posteriormente mente proceder con el proceso de morph
+
+
+		_para posteriormente ir a las opciones de "Morpher", y allí, desactivar la opción de "Auto Apply Morph"
+
+
+		_para luego, volver al panel "Morpher", y allí, seleccionar la opción de "Store Morph", para que así, el 
+
+		sistema almacene la posición y todos los puntos correspondientes a la retopología de nuestro character, ó
+
+		motivo a partir de una análisis a partir del cuál, todos los points, ó vertex, pasarán ha ser de color
+
+		"verde", para que así, posteriormente podamos reutilizar ésta retopología almacenada en el sistema ahora
+
+		en otros characters, ó motivos de referencia
+
+
+		_para posteriormete a partir de éste punto darle a la opción de "Load Ref", cargar una referencia para que
+
+		así, se nos abra el explorador y podamos navegar hasta la ubicación del archivo ".obj", el cuál, tiene 
+
+
+		_para que así, al cargar el nuevo character, ó motivo de referencia podremos ver hay un desface entre ambos
+
+		characters, ó motivos
+
+
+		_para lo cuál, tendremos que volver al panel "Morpher", y darle a la opción de "Apply Moprh", para que así,
+
+		el sistema haga un recálculo de los puntos de la retopología almacenada previamente sobre el nuevo 
+
+		character, ó motivo cargado como referencia para así, ahora si coincidan ambos elementos
+
+
+		_de ésta manera, habremos reutilizado una misma retopología ó low-poly, para múltiples instancias de un
+
+		character, ó motivo
+
+
+		_y por último para quitar ó dejar de visualizar los puntos ó points, verder de sobre la retopología debemos
+
+		de ir nuevamente al panel "Morpher", y seleccionar la opción de "Display Moph Data", para que así, éstos
+
+		puntos de color verdes dejen de ser visibles y nos limiten el proceso de edición sobre la retopología
+
+
+
+
+	

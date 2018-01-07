@@ -1,0 +1,80 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	Brush:
+
+		_la herramienta de brush, nos permite ajustar la topología generada a través, de la geometría resultante
+
+		
+		_de ésta manera, dispondremos de diferentes métodos como 
+
+
+		Brush Size: Mouse Right Click and Drag
+
+		Brush Falloff: Shift + Mouse Right Click and Drag
+
+		Brush Strength: Mouse Midle Click and Drag 
+
+
+
+		Move:
+
+			_éste método nos permite mover los sub-elementos de forma envolvente y suavizada
+
+		Inflate:
+
+			_éste método nos permite mover los sub-elementos de forma dispersa ó inflada
+
+		Sproject:
+
+			_éste método nos permite mover los sub-elementos de forma proyectada por las 
+			normales y la topología de referencia
+
+		Nproject:
+
+			éste método nos permite mover los sub-elementos de forma proyectada por las 
+			normales y la topología de referencia
+
+		Select:
+
+			_éste método nos permite seleccionar los sub-elementos para posteriores procesos
+
+		Relax:
+
+			_éste método nos permite relajar y mover los sub-elementos en relación a la topología creada
+
+		Standard:
+
+			_éste método nos permite mover los sub-elementos de forma suavizada similar al relax
+	
+
+
+	

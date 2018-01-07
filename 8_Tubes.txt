@@ -1,0 +1,59 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______	
+
+	Tubes:
+
+
+		_esta herramienta es especialmente útil para hacer loops, por ejemplo de extremidades como
+
+		brazos, piernas, cuello, otros
+
+
+		_así, podríamos colocar el character, en una posición axonométrica en lo posible y seleccionar
+
+		la herramienta de "Tubes Tool"
+
+
+		_luego debemos hacer líneas transversales sobre la extremidad ó área tubular, deseada, éstas 
+
+		líneas deben desplazarse ó crearse de forma sangrada sobre el motive, así tendremos que crear 
+
+		cuantas líneas desiemos y colocarlas de forma paralela
+
+
+		_para esto, hacemo "mouse left click and drag", en el sentido deseado de la topología deseada
+
+
+		_y, para finalizar la acción debemos hacer "mouse right click", asi, podremos que se generará
+
+		nueva geometrías faces
+
+

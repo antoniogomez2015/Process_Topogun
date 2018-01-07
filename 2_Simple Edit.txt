@@ -1,0 +1,67 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	_Simple Edit: T
+
+		_para seleccionar y editar y mover vertices y sub-elementos en general disponemos de la 
+
+		herramienta "Simple Edit"
+
+
+		_Backfaces: Control + B //permite seleccionar caras internamente
+
+		_Select Verts: 1
+		
+		_Select Edges: 2
+
+		_Select Faces: 3
+
+		_Marge Vertex: Alt + C
+
+		_Visible Sub-elements: 4
+
+		_Visible Faces: 5
+
+		_Visible Refence Model: 6
+
+		_Ver a través, de Retopologia: 7
+
+
+	_Brush Selection: Q
+
+		_para la selección rápida de sub-elementos disponemos de la herramienta de "Brush Selection"
+
+
+	NOTA: para alternar entre las herramientas "Simple Edit", y "Simple Create", disponemos del shortcut 
+		"mouse right click/mouse right click", varias veces
+
+
+		

@@ -1,0 +1,131 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Funtions:
+_________
+
+
+	_Edge Loops: 
+
+
+		_para crear un edge loops, de vertex, primero seleccionamos un edges, que esté perpendicular
+
+		a la dirección del edge loops, ha crear
+
+
+		_luego vamos al panel derecho y seleccionamos "Conect Ring", luego debemos hacer 
+
+		"mouse left click", en el área donde deseamos crear el edge loops
+
+
+
+	Bridge:
+
+
+		_esta opción es especialmente útil cuando deseamos crear "faces", a través, de determinados
+
+		vertes, que nosotros desiemos y el programa no lo detecte ó lo haga de otra manera
+
+	
+		_así, podremos seleccionar los dos vertex, más importantes con la herramienta de "Simple Edit",
+
+		luego con ambos vertex, seleccionados vamos a la opción de "Bridge", así, se rellenará el
+
+		face, que nosotros deseamos
+
+
+
+	Marge:
+
+
+		_esta opción es especialmente útil para unir dos ó más vertex, que nos sobran ó están demás,
+
+
+		_así, podremos seleccionar dos ó más vertex, e ir y hacer "Marge", así, los vertex, seleccionados
+
+		convergerán en uno sólo
+
+
+
+	_Zero Sym:
+
+		
+		_esta opción permite ajustar al centro en el eje "X", los vertex, seleccionados, esto es
+
+		especialmente útil para alinear vertex, para el proceso de suplicación por simetría
+
+
+		_para esto, seleccionamos los vertex, deseados y vamos ha "Zero Sym"
+
+
+	
+	_Create Sym:
+
+
+		_esta opción es especialmente útil para duplicados "Islan", ó bloques de vertex, ó todos
+
+		los seleccionados y relacionados ha éstos seleccionados
+
+
+		_para esto, seleccionamos unos vertex, referenciales y hacemos "Create Sym"
+
+
+		_así, se crearán los vertex, reflejados del otro lado del character, más éstos nos 
+
+		estarán unidos a la mitad original para esto, debemos seleccionar vertex, contiguos y
+
+		hacer "Marge", de éstos para que así, todos los vertex, sean una sóla mesh
+
+
+
+	_Adj Sym:
+
+
+		_al haber reflejado los vertex, en simetría en el paso anterior y continuar trabajando
+
+		va ha ser necesario actualizar ó reflejar el simetría para que así, los nuevos vertex,
+
+		creados se reflejen en el otro lado de la simetría
+
+
+		_ésto lo debemos hacer regularmente cuando hayamos avanzado en el trabajo, para esto,
+
+		vamo ha "Adj Sym", directamente sin tener que seleccionar nada previamente
+
+
+
+	_Straighen:
+
+		_ésta opción permite alinear una serie de sub-elementos como vertex, seleccionados para que así, éstos
+
+		se presenten en forma de línea
+		
+
+
+
+	

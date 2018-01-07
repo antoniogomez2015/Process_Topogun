@@ -1,0 +1,52 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	Retopology:
+
+		_tenemos la posibilidad de carga sobre un character, ó motivo de referencia, una tipología que hayamos 
+
+		hecho ó realizado previamente en topogun, ó en otra aplicación para que así, podamos hacer ajustes sobre
+
+		ésta y su topología en topogun, y sobre sobre todo para hacer cambios de "Mopth"
+
+	
+		_para ésto, debemos de cargar el character, motivo de referencia en topogun, para posteriormente hacer
+
+		"Load Scene", para que así, se nos abra el explorador en el cuál, en la parte de inferior debemos de 
+
+		escoger el tipo de archivo y seleccionaremos la opción de "OBJ", y procederemos ha ubicar la ruta del 
+
+		archivo de tipo obj, low poly, que tenemos listo para cargar como una nueva retopología sobre el character
+
+
+
+
+	

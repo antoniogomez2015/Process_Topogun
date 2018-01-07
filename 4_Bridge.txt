@@ -1,0 +1,46 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+
+	_Bridge: Shift + B
+
+
+		_esta opción permite rellenar los vertex, en sus configuraciones en triads, y quads,
+
+		a través, de las intercepciones entre los vertes
+
+
+		_ésta opción puede funcionar tanto para generación de faces, a partir de aristas y quads
+
+
+
+
+

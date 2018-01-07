@@ -1,0 +1,63 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+
+	_SimpleCreate: C 
+
+
+		_para activar y desactivar esta herramienta de forma dinámica "Mouse Right Click",
+		
+		al hacer mouse right click, varias veces alternamos esta función "SimpleCreate"
+
+
+		_(esta opción es para crear vextices "Mouse Left Click", para finalizar el proceso
+
+		de creación "Mouse Right Click")
+
+
+
+	_SimpleCreate Continue: Control + Click, sobre el último Point
+
+
+		_para continuar a partir de un punto ó vertex, previo podemos hacer "Control + Click",
+
+		sobre éste para continuar esta cadena a partir de éste punto
+
+
+		_y para una mayor automatización la herramienta "SimpleCreate", cuenta con la opción
+
+		de "Make Faces", así, al crear vertex, se irán creando faces, automáticamente esto
+
+		aumenta la productividad en gran manera
+
+
+
+		

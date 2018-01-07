@@ -1,0 +1,86 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	Sub Division:
+
+		_más también, tenemos la posibilidad de exportar tanto para ZBrush, como para MudBox, la reconstrucción
+
+		de las sub divisiones entre ambas meshes, tanto la de la referencia como la retopología optenida
+
+		
+		_de ésta manera, podremos ahora obtener el proceso de "projecting", entre ambas meshes, en éstas 
+
+		aplicaciones ó incluso lograr el efecto ó sensación de que hemos logrado todo el proceso natural de 
+
+		esculpir el alto detalle sobre la retopología inicial
+
+
+		_de ésta manera, lo primero que tendremos que hacer es ir al menú "Subdivision/Subdivision Parameters",
+
+		para que así, se nos abra un menú en el cuál, podremos escoger tanto los "Levels", de subdivisión que 
+
+		deseamos reconstruir; es recomendado colocar entre 4 y 5, así, como también, podremos escoger la aplicación
+
+		entre las cuáles, tendremos disponiles los formatos "MUD", para Mudbox, y "ZTL", para ZBrush, y para 
+
+		finalizar debemos de darle ha "Done"
+
+
+		_para posteriormente volver al menú "Subdivision/", y hacer "Save", para que así, se nos abra el explorador
+
+		a través, del cuál, podamos indicar la ruta ó path, de destino de los respectivos archivos nativos para
+
+		cada aplicación respectiva
+
+
+		_y posteriormente en mudbox, como en zbrush, debemos de tener cargada la retopología ó lowpoly, con el 
+
+		proceso de uvmap, así, como también, debemos de aplicarle los mismos niveles de subdivisión que hemos
+
+		indicado en el proceso de exportación en Topogun, para seguir con el siguiente paso
+
+
+			_Mudbox, para luego ir al menú "File/Import As Layer", para que así, se nos abra el explorador y
+
+			a través, del cuál, navegar hasta la ubicación del archivo respectivo para que así, de ésta manera,
+
+			éste sea cargado podamos ver los diferentes niveles de subdivisión aplicados sobre el motivo
+
+
+			_ZBrush, para luego volver al menú "import", para que así, se nos abra el explorador y
+
+			a través, del cuál, navegar hasta la ubicación del archivo respectivo para que así, de ésta manera,
+
+			éste sea cargado podamos ver los diferentes niveles de subdivisión aplicados sobre el motivo
+
+		
+
+

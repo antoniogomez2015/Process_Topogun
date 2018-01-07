@@ -1,0 +1,284 @@
+
+
+
+GUTTERMOUTHS
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Tutorial: Tutorial Usando Topogun para retopología
+
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	_Simple Edit: T
+
+		_para seleccionar y editar y mover vertices y sub-elementos en general disponemos de la 
+
+		herramienta "Simple Edit"
+
+
+		_Backfaces: Control + B //permite seleccionar caras internamente
+
+		_Select Verts: 1
+		
+		_Select Edges: 2
+
+		_Select Faces: 3
+
+		_Marge Vertex: Alt + C
+
+		_Visible Sub-elements: 4
+
+		_Visible Faces: 5
+
+		_Visible Refence Model: 6
+
+		_Ver a través, de Retopologia: 7
+
+
+	_Brush Selection: Q
+
+		_para la selección rápida de sub-elementos disponemos de la herramienta de "Brush Selection"
+
+
+	NOTA: para alternar entre las herramientas "Simple Edit", y "Simple Create", disponemos del shortcut 
+		"mouse right click/mouse right click", varias veces
+
+
+	_SimpleCreate: C 
+
+
+		_para activar y desactivar esta herramienta de forma dinámica "Mouse Right Click",
+		
+		al hacer mouse right click, varias veces alternamos esta función "SimpleCreate"
+
+
+		_(esta opción es para crear vextices sobre el motivo ó character, shorcut, "Mouse Left Click", para 
+
+		finalizar el proceso de creación "Mouse Right Click")
+
+
+
+	_SimpleCreate Continue: Control + Click, sobre el último Point
+
+
+		_para continuar a partir de un punto ó vertex, previo podemos hacer "Control + Click",
+
+		sobre éste para continuar esta cadena a partir de éste punto
+
+
+		_y para una mayor automatización la herramienta "SimpleCreate", cuenta con la opción
+
+		de "Make Faces", así, al crear vertex, se irán creando faces, automáticamente esto
+
+		aumenta la productividad en gran manera
+
+
+
+	_Bridge: Shift + B
+
+
+		_esta opción permite rellenar los vertex, creados en sus configuraciones en triads, y quads,
+
+		a través, de las intercepciones entre los vertes
+
+
+
+
+
+
+	_Sub-dividir Edges: Shift + Mouse left click
+
+
+		_es preciso haber terminado una cadena previa "Mouse Right Click"
+
+
+
+	_Delete Vertex: Delect/Supr	
+
+	
+	_Stedy Mouse: M (Lazzy Mouse)
+
+
+	
+
+	_Symetry: X //options/Enable Symetry
+
+
+
+
+	_Draw: D, shortcut: D 
+
+		_para crear líneas guías sobre el motivo, unas verticales y otroas horizontales las cuáles podremos converitr
+
+		en polígonos rellenos en sus intercepciones, por medio de: (Value/Calculate)
+
+
+		_también, podremos crear líneas con puntos ó segmentos determinado lo cuál, es muy conveniente para la creación
+
+		de áreas específicas las cuáles, deben acoplarse con otras áreas
+
+
+		_y con las opciones de "Loft", podremos convertir áreas enternas ha polígonos rellenos indicando otras líneas
+
+		guías paralelas, incicando una al principio y otra la final de las paralelas ya existentes
+
+
+		
+	
+	_Extrude: shortcut: Alt + E
+
+		_ésta herramienta nos permitirá extruir edges, y faces, seleccionadas
+
+
+
+	Tubes: shortcut: Alt + T
+
+
+		_ésta herramienta nos permitirá crear loops, enteros de geometría para lo cuál, debemos de hacer trazados 
+
+		sangrados paralelos entre si sobre la parte del motivo tubular
+
+
+		_para luego hacer "mouse right click", para finalizar el proceso y la nueva geometría sea creada correctamente
+
+
+
+	Brush: shortcut: Alt + B
+
+		
+
+	
+----------------------------------------------------------------------------------------------------	
+
+Funtions:
+_________
+
+
+
+	_Edge Loops: 
+
+
+		_para crear un edge loops, de vertex, primero seleccionamos un edges, que esté perpendicular
+
+		a la dirección del edge loops, ha crear
+
+
+		_luego vamos al panel derecho y seleccionamos "Conect Ring", luego debemos hacer 
+
+		"mouse left click", en el área donde deseamos crear el edge loops
+
+
+
+	Bridge:
+
+
+		_esta opción es especialmente útil cuando deseamos crear "faces", a través, de determinados
+
+		vertes, que nosotros desiemos y el programa no lo detecte ó lo haga de otra manera
+
+	
+		_así, podremos seleccionar los dos vertex, más importantes con la herramienta de "Simple Edit",
+
+		luego con ambos vertex, seleccionados vamos a la opción de "Bridge", así, se rellenará el
+
+		face, que nosotros deseamos
+
+
+
+	Marge:
+
+
+		_esta opción es especialmente útil para unir dos ó más vertex, que nos sobran ó están demás,
+
+
+		_así, podremos seleccionar dos ó más vertex, e ir y hacer "Marge", así, los vertex, seleccionados
+
+		convergerán en uno sólo
+
+
+
+	_Zero Sym:
+
+		
+		_esta opción permite ajustar al centro en el eje "X", los vertex, seleccionados, esto es
+
+		especialmente útil para alinear vertex, para el proceso de suplicación por simetría
+
+
+		_para esto, seleccionamos los vertex, deseados y vamos ha "Zero Sym"
+
+
+	
+	_Create Sym:
+
+
+		_esta opción es especialmente útil para duplicados "Islan", ó bloques de vertex, ó todos
+
+		los seleccionados y relacionados ha éstos seleccionados
+
+
+		_para esto, seleccionamos unos vertex, referenciales y hacemos "Create Sym"
+
+
+		_así, se crearán los vertex, reflejados del otro lado del character, más éstos nos 
+
+		estarán unidos a la mitad original para esto, debemos seleccionar vertex, contiguos y
+
+		hacer "Marge", de éstos para que así, todos los vertex, sean una sóla mesh
+
+
+
+	_Adj Sym:
+
+
+		_al haber reflejado los vertex, en simetría en el paso anterior y continuar trabajando
+
+		va ha ser necesario actualizar ó reflejar el simetría para que así, los nuevos vertex,
+
+		creados se reflejen en el otro lado de la simetría
+
+
+		_ésto lo debemos hacer regularmente cuando hayamos avanzado en el trabajo, para esto,
+
+		vamo ha "Adj Sym", directamente sin tener que seleccionar nada previamente
+
+
+
+	_Straighen:
+
+		_ésta opción permite alinear una serie de sub-elementos como vertex, seleccionados para que así, éstos
+
+		se presenten en forma de línea
+		
+
+
+
+	

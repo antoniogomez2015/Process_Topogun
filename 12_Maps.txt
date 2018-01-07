@@ -1,0 +1,112 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	Maps:
+
+		_más también, tendremos la posibilidad de generar mapas de volcado de información en relación tanto a la 
+
+		mesh, que hace de referencia con la mesh, que hemos generado a partir del proceso de retopología ó una
+
+		externa cargada posteriormente
+
+
+		_de ésta manera, podremos generar así, mapas de "diffuse, AO, bumb, otros", de forma automática al sistema
+
+		comparar ambas topologías 
+
+
+		_para lo cuál, debemos de tener cargado una mesh, como "Reference", "load Ref", ó a través, del menú 
+
+		"Load Scene", podremos cargar una escena ya existentes con una mesh, de referencia; y si ésta escena tiene 
+
+		una retopología realizada previamente que esté incompleta ó completa pero sin el proceso de uvmaps, 
+
+		entonces debemos de exrportar ésta a través, del comando "Save Ass", para que a través, de otra aplicación 
+
+		como "Unfold 3d", procedamos ha realizarle el proceso de uvmap
+
+
+		_para posteriormente, volver al menú "Load Scene", y allí, en el explorador en la opción de tipo de archivo
+
+		en la parte inferior de la ventana debemos escoger la opción de "OBJ", para luego, navegar hasta la ruta
+
+		donde se encuentra el archivo de lowpoly, al cuál, le hemos realizado el proceso de uvmap, para que éste
+
+		se cargue ahora como una mesh, de retopología sobre la mesh, de referencia de la escena ya existente
+
+
+		_para luego, posteriormente ir al menú "Bake", y darle a la opción de "Generate Maps", shortcut 
+
+		"Control + Shift + M" para que así, se nos abra un panel en el cuál, podremos seleccionar y configurar 
+
+		los diferentes mapas ha generar
+
+
+		_de ésta manera, en la primera sección encontraremos las opcines generales en las cuáles, podremos 
+
+		configurar por ejemplo; el tamaño que tendrán los mapas así, como también, el sample, calidad y valores
+
+		similares
+
+
+		_donde la opción de "Cage Dist (1/1000 units)", es muy importante ya que ésta indica el alcance y la 
+
+		tolerancia entre la separación entre una mesh, de referencia y la otro, como criterio activo para la 
+
+		generación de los respectivos mapas ha generar, "donde lo normal es que la mesh, de retopología de ponga
+
+		de color negro, ésto quiere decir que en to su área estará incidiento la mesh, en alta resolución ha 
+
+		proyectar sobre la otra"
+
+
+		_para posteriormente ir haciendo "Cheacker", sobre cada uno de los mapas de interés ha generar y exportar
+
+		
+		_para posteriormente ir configurando las respectivas opciones como por ejemplo la opción de "Path", en la
+
+		cuál, podremos indicar ó seleccionar una ruta de destino para el archivo generado así, como también, un
+
+		nombre para cada uno de éstos
+
+
+		_de ésta manera, cuando hayamos de terminado de configurar todos los respectivos mapas ha generar debemos 
+
+		posteriormente bajar, hasta el final del panel hasta la opción de "Generate", para que así, el sistema se
+	
+		encargue de hacer el volcado de todos los respectivos mapas en la ruta de exportación indicada
+
+
+		_para que así, de ésta manera, ahora en photoshop, por ejemplo; podremos seguir ajustando y conbinando éstos
+
+		mapas para posteriormente aplicarlos sobre la mesh, lowpoly, de la retopología en otra aplicación dedicada
+
+

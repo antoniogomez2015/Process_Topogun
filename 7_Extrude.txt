@@ -1,0 +1,59 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______	
+	
+	_Extrude:
+
+		_Crawl: Extrusión señida al modelo de referencia
+
+		_Project Back: Extrusión señida al modelo de referencia sólo cuando soltamos el mouse
+
+		_Free: Extrusión libre y nunca se señirá ó pegará el modelo de referencia
+
+			
+
+
+		_esta opción nos permite extruir una serie de vertex, seleccionados para que así, éstos
+
+		se dupliquen y a su misma vez, se generen faces, entre éstos, éstos nos permite hacer 
+
+		rápidas topologías
+
+
+		_para ésto, primero activamos la herramienta "Extrude Tool"
+
+
+		_luego seleccionamos con la herramienta "Extrude Tool", seleccionada seleccionamos los 
+
+		"Edges", deseados a extruir
+
+
+		_luego arrastramos el handle, que aparece y así extruiremos los edges, seleccionados			
+

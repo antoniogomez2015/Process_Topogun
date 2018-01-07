@@ -1,0 +1,171 @@
+
+
+
+
+Topogun V2
+
+
+
+	Tutorial básico de Topogun
+		https://www.youtube.com/watch?v=5dp5EeCC7C0
+
+
+	Tutorial Usando Topogun para retopología
+		https://www.youtube.com/watch?v=wveJEssRxyQ
+
+
+	TUTORIAL DE TOPOLOGÍA FACIAL EN TOPOGUN (10 Videos)
+		https://www.youtube.com/playlist?list=PLf-uWfGxf6jOPED9dGHjZ7YDm3yOvEwyg
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+----------------------------------------------------------------------------------------------------
+
+Tools:
+______
+
+	_Draw: D
+
+
+		_también, disponemos de una opción de creación de geometría al mejor estilo de 
+
+		"criase pencil", de blender, así, podemos dibujar un grilla, con la topología
+
+		de la geoemtría deseada
+
+
+		_al finalizar de sugerir la topología deseada le damos ha "Tool Option/Evalute",
+
+		ésta avaluará las intercepciones de los vertex, respectivos en la grilla y creará
+
+		la geometría posible en dicha grilla sugerida ó dibujada por nosotros
+
+
+		_y para eliminar las áreas de vertex, que no han sido utilizadas podemos hacer
+
+		"Tool/Options/Clear All"
+
+
+		Line:
+		_____
+
+		_ésta opción nos permite crear líneas de futuros points, sobre una surface, para la generación de geometría
+
+		a partir de la intercepción de líneas transversales y paralelas entre si aplicando "Evaluate", 
+
+		posteriormente (NOTA:también, puede usarse ésta opción para creación de geometría por medio del método Loft)
+
+
+		_así, como también, podremos sangrar la proyección de una línea de points, sobre una superficie cilíndrica 
+
+		para que así, ésta hara el "ring loop", de points, sobre ésta superficie cilíndrica para su posterior uso
+
+		con el método "Loft"
+
+
+		_ésta opción tiene la ventaja de que nos permite controlar la dirección de los edge rings, generados
+
+		
+		_ésta herramienta de líneas de points, tiene aplicaciones para líneas entre cruzadas ó paralelas para hacer
+
+		así, "Evaluate"
+
+		_así, como también, tiene aplicaciones para las demás opciones de la herramienta "draw", como por ejemplo,
+
+		para la creación de por medio del método "Loft", y "Sweep"
+
+	
+			Tool Options:
+
+			_por defecto la herramienta no tiene una cantidad de points, ha generar asignada lo que significa
+
+			que lo puntos que generará serán los que intercepte con otras líneas de points, paralelas, otras
+
+			
+			_más también, podremos indicarle una cantidad de points, sobre la líneas ha generar de forma 
+
+			específica, a través, de la opción de "Points", en el panel "Tool Options", ésto nos permitirá un 
+
+			mayor control y menos trabajo y más premeditado y calculado, lo cuál, es esepecialmente útil para 
+
+			los procesos de "Loft", y "Sweep", que requieren una concepción previa del cálculo y cantidad de 
+
+			geometría ha generar ya que en éstos casos no hay intercepciones de líneas previas entre si para 
+
+			la generación de geometría
+
+
+
+
+		Loft:
+		_____
+
+		_con lot, podremos crear líneas de futuros points, sobre una surface, con una cantidad de 
+
+		"Points", determinadas por nosotros, esto es especialmente útil para construcción por ejemplo, la creación
+
+		de superficies cilíndricas como brazos, piernas, dedos, cuello, otros
+
+
+		_así, luego de haber indicado la cantidad de "Points", deseados en el panel "Option Tools", y creado la 
+
+		cantidad de  líneas paralelas entre sí, debemos entonces activar la opción de 
+
+		"Loft"
+
+
+		_luego debemos trazar al menos una linea transversal ó paralela a las otras líneas de crease pencil 
+
+		(tratando de que ésta línea no toque con points, de las demás líneas para un mejor resultado)
+
+
+		_y para finalizar la opción le damos ha "Evaluate", así, se crearán los faces, 
+
+		interceptadas
+
+
+		_y para eliminar las áreas de vertex, que no han sido utilizadas podemos hacer
+
+		"Tool/Options/Clear All"
+
+
+
+		Sweep:
+		______
+
+		_el método de Sweep, nos permite llegar más allá incluso que el método de loft, en la automatización y en
+
+		la acelaración del trabajo
+
+		
+		_ya que éste método sólo requiere la creación de una sóla línea y su configuración para la generación de 
+
+		toda una geometría sobre una superficie cilíndrica
+
+	
+			Tool Options:
+
+			_"Points", en éste caso, la opción de points, quiere decir la cantidad de puntos ha generar sobre
+
+			la línea y longitud de la geometría ha generar
+
+
+			_"Sweep Steps", ésta opción se refiere a la cantidad de puntos colocados en cada edge ring, generado
+
+			a partir de la opción "Points", para por último hacer "Evaluate", para que así, la geometría
+
+			respectiva sea generada
+
+
+		_de ésta manera, a través, de estos dos controles podremos tener un control absoluto sobre la generación 
+
+		de geometrias sobre superficies cilíndricas
+
+
+
+	
